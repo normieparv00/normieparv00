@@ -1,4 +1,4 @@
-🎓 Computer Engineering @ PICT, Pune
+🎓 Computer and Electronics Engineering @ PICT, Pune
 
 😎 Amazing problem solver using Data Structures and Algorithms
 
