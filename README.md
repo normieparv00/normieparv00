@@ -1,5 +1,7 @@
 🎓 Computer Engineering @ PICT, Pune
 
+😎 Amazing problem solver using Data Structures and Algorithms
+
 🤖 Agentic AI Developer Intern @ Sculptsoft – Built modular MCP servers with OpenAI SDK
 
 📊 Former Data Science Intern @ Neuronexus – Delivered insights & improved model accuracy
