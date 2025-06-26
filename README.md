@@ -12,7 +12,7 @@
 
 📈 Projects: AI-driven insights platform, Dog breed classifier (CNN)
 
-🧠 Certified in ML, Full Stack Web Dev, Java, Django & FastAPI (Udemy)
+🧠 Certified in ML, Deep Learning, Full Stack Web Dev, Java, Django & FastAPI (Udemy)
 
 🔍 Passionate about building intelligent backend systems powered by LLMs
 
