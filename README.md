@@ -3,8 +3,8 @@
   I am a driven and passionate technologist with a strong focus on AI, machine learning, and backend development. From building intelligent Agentic AI systems that connect tools like JIRA, Git, and Trello using natural language, to crafting deep learning models that accurately identify dog breeds, my work blends creativity with cutting-edge tech. Recently, I added another milestone to my journey by completing Google Cloud’s “Introduction to Large Language Models” certification — showcasing my growing expertise in one of the most powerful areas in modern AI. With projects powered by FastAPI, PostgreSQL, Docker, and OpenAI’s tools, I am not just learning about the future of tech — I'm actively creating it.
 </h3>
 
-- 🔭 I’m currently working on **Agentic AI**  
-- 🌱 I’m currently learning **Django, Tensorflow, OpenAI SDK, Google ADK, LLMs, Python**  
+- 🔭 I’m currently working on **Agentic AI** and **Python Backend**
+- 🌱 I’m currently learning **Django, Tensorflow, OpenAI SDK, Google ADK, LLMs, Python, DevOps**  
 - 👯 I’m looking to collaborate on **AI-ML, Agentic AI, Python dev**  
 - 📫 How to reach me **parv.g.sheth@gmail.com**  
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/11-HhazGoIz_A7nTZjQMuGfRTyhBy75yn/view?usp=sharing)  
