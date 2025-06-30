@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Django, Tensorflow, OpenAI SDK, Google ADK, LLMs, Python, DevOps**  
 - 👯 I’m looking to collaborate on **AI-ML, Agentic AI, Python dev**  
 - 📫 How to reach me **parv.g.sheth@gmail.com**  
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/11-HhazGoIz_A7nTZjQMuGfRTyhBy75yn/view?usp=sharing)  
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1iAx_tLQEn-h4t_rBFaryCGG2zodusMJg/view?usp=sharing)  
 - ⚡ Fun fact **I am extremely lame with my jokes**
 
 <h3 align="left">Connect with me:</h3>
